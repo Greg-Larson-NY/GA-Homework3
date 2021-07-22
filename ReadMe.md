@@ -1,7 +1,5 @@
 ﻿
-![Screenshot
-
-](https://raw.githubusercontent.com/Greg-Larson-NY/GA-Homework3/main/screen1.png)
+![Screenshot](https://raw.githubusercontent.com/Greg-Larson-NY/GA-Homework3/main/screen1.png)
 
 # General Assembly Homework 3 - Trulia BnB
 
