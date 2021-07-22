@@ -21,35 +21,6 @@ We’ll still give you content and colors and fonts like the last assignment, bu
 
   
 
-Technical Requirements
-
-  
-
-  
-
-- Add HTML markup around content, making sure to use elements that make sense semantically
-
-- Add appropriate CSS rules
-
-  
-
-- Your result doesn’t have to match exactly (especially regarding spacing - padding/margin may vary), but I would like to see the general layout recreated:
-
-  
-
-- Nav with logo / links on the right
-
-- Element below the nav with centered text
-
-- Background image with element on the right
-
-- Three column view with “Create a Profile” / “Find a Developer” / “Find a Designer”
-
-- Footer
-
-  
-
-- Colors and fonts are listed in the starter code CSS in comments
 
 
 
